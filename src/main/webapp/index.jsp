@@ -319,6 +319,7 @@
                 <br>
                 <p>When I'm not coding, you can find me exploring new technologies, writing design concepts, or working on open-source projects.</p>
             </div>
+            <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
             <div class="skills-container">
                 <div class="skill-bar">
                     <div class="skill-info">
